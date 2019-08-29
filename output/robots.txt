@@ -1,0 +1,4 @@
+Sitemap: https://zbruick.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: zbruick.github.io
